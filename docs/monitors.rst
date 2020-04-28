@@ -18,5 +18,3 @@ Configuring Monitors
 
 Deleting Monitors
 =============
-
--
