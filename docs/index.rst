@@ -5,9 +5,10 @@
 
 Welcome to StatusBot Wiki & Documentation.
 ==================================================
+Need support? Join our Discord: https://discord.gg/HvJ4hSA
 
 Contents:
-
+=====================
 .. toctree::
    :maxdepth: 2
    :glob:
