@@ -9,14 +9,14 @@ Monitors are the way to see the status of an IP/Domain. Here is a simple guide o
 Creating Monitors
 =============
 
-TODO
+-
 
 Configuring Monitors
 =============
 
-TODO
+-
 
 Deleting Monitors
 =============
 
-TODO
+-
