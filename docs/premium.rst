@@ -4,7 +4,7 @@ Premium
 
 Learn how to purchase premium to setting it up on your guilds. If you need any help, feel free to Join our Discord: https://discord.gg/HvJ4hSA
 
-.. WARNING:: You need to be on the account you purchased premium on to set premium guilds
+.. WARNING:: You need to be on the account you purchased premium on to set a guild to premium.
 
 Purchasing Premium
 =============
