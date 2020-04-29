@@ -18,14 +18,14 @@ Configure
 
 - Configure your server by running:
 
-.. code-block::
+.. code-block:: none
 
     sb!config
 
 - Run first time server setup by running:
 
 
-.. code-block::
+.. code-block:: none
 
     sb!setup
 
@@ -45,6 +45,6 @@ Commands
 
 - For a more specific look at a command, do:
 
-.. code-block::
+.. code-block:: none
 
     sb!help <command name>

@@ -11,7 +11,7 @@ Viewing Monitors
 - Overview of all monitors
 For a quick overview of all the monitors on your guild, run:
 
-.. code-block::
+.. code-block:: none
 
     sb!monitors
 
@@ -21,7 +21,7 @@ This will show you every monitor on your guild, along with the Status, ID & Name
 - View Individual monitors
 To view a individual monitor, you can run:
 
-.. code-block::
+.. code-block:: none
 
     sb!monitor <monitor id>
 
@@ -36,7 +36,7 @@ Creating Monitors
 - Create a monitor
 To create a monitor simply run the following:
 
-.. code-block::
+.. code-block:: none
 
     sb!create
 
@@ -48,7 +48,7 @@ Configuring Monitors
 - Configuring Monitors
 When configuring a monitors settings, the base syntax is:
 
-.. code-block::
+.. code-block:: none
 
     sb!monitor <monitor id> <setting> <new value>
 
@@ -105,7 +105,7 @@ Deleting Monitors
 - Deleting a monitor
 To delete an individual monitor run the following:
 
-.. code-block::
+.. code-block:: none
 
     sb!delete <monitor id | monitor name>
 
@@ -118,6 +118,6 @@ To delete an individual monitor run the following:
 To delete all monitors run the following
 
 
-.. code-block::
+.. code-block:: none
 
     sb!delete all
