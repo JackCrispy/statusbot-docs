@@ -12,6 +12,7 @@ Viewing Monitors
 For a quick overview of all the monitors on your guild, run <prefix>monitors.
 This will show you every monitor on your guild, along with the Status, ID & Name of the monitors.
 
+- View Individual monitors
 To view a individual monitor, you can run <prefix>monitor <id>
 
 Creating Monitors
