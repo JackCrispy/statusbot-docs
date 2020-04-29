@@ -17,9 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'StatusBot Docs'
-copyright = '2020, Dylan Davies, Jack Crispy'
-author = 'Dylan Davies, Jack Crispy'
+project = u'StatusBot Wiki'
+copyright = u'2020 StatusBot'
 
 
 # -- General configuration ---------------------------------------------------
@@ -46,9 +45,17 @@ master_doc = 'index'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'default'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+exclude_patterns = ['_build']
+
+pygments_style = 'sphinx'
+
+html_static_path = ['_static']
+
+html_show_sphinx = False
