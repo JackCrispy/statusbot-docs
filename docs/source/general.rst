@@ -39,7 +39,7 @@ Commands
 =============
 - For a general overview of commands in your guild, do:
 
-.. code-block::
+.. code-block:: none
 
     sb!help
 
