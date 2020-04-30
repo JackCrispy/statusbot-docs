@@ -9,6 +9,7 @@ Monitors are the way to see the status of an IP/Domain. Here is a simple guide o
 Viewing Monitors
 ================
 - Overview of all monitors
+
 For a quick overview of all the monitors on your guild, run:
 
 .. code-block:: none
@@ -19,6 +20,7 @@ For a quick overview of all the monitors on your guild, run:
 This will show you every monitor on your guild, along with the Status, ID & Name of the monitors.
 
 - View Individual monitors
+
 To view a individual monitor, you can run:
 
 .. code-block:: none
@@ -34,6 +36,7 @@ Running this command will provide more information on the monitor.
 Creating Monitors
 =================
 - Create a monitor
+
 To create a monitor simply run the following:
 
 .. code-block:: none
@@ -46,6 +49,7 @@ The bot will prompt you with questions to setup the monitor.
 Configuring Monitors
 ====================
 - Configuring Monitors
+
 When configuring a monitors settings, the base syntax is:
 
 .. code-block:: none
@@ -68,9 +72,9 @@ The following tables will provide information on each setting.
 +=========+=====================+===================================+===============================================+
 | name    | Yes                 | Any string                        | The name of the monitor                       |
 +---------+---------------------+-----------------------------------+-----------------------------------------------+
-| ip      | Yes                 | Any valid domain or ip address     | The domain or ip of the monitor               |
+| ip      | Yes                 | Any valid domain or ip address    | The domain or ip of the monitor               |
 +---------+---------------------+-----------------------------------+-----------------------------------------------+
-| domain  | Yes                 | Any valid domain or ip address     | The domain or ip of the monitor               |
+| domain  | Yes                 | Any valid domain or ip address    | The domain or ip of the monitor               |
 +---------+---------------------+-----------------------------------+-----------------------------------------------+
 | enabled | No                  | Any value inputed will be ignored | Toggle wether the monitor is enabled or not   |
 +---------+---------------------+-----------------------------------+-----------------------------------------------+
@@ -80,7 +84,6 @@ The following tables will provide information on each setting.
 +---------+---------------------+-----------------------------------+-----------------------------------------------+
 | hidden  | No                  | Any value inputed will be ignored | Toggle wether the monitor ip is hidden or not |
 +---------+---------------------+-----------------------------------+-----------------------------------------------+
-
 
 Premium Settings: These settings are only avaliable to premium guilds
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -99,10 +102,10 @@ Premium Settings: These settings are only avaliable to premium guilds
 | offline color  | Yes                 | A valid hexadecimal color in the form of "#af35bc" | The sidebar color of the embed, when the status is offline |
 +----------------+---------------------+----------------------------------------------------+------------------------------------------------------------+
 
-
 Deleting Monitors
 =================
 - Deleting a monitor
+
 To delete an individual monitor run the following:
 
 .. code-block:: none
@@ -115,6 +118,7 @@ To delete an individual monitor run the following:
 
 
 - Deleting all the monitors
+
 To delete all monitors run the following
 
 .. warning:: In Developement
