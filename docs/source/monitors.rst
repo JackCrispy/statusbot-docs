@@ -117,6 +117,8 @@ To delete an individual monitor run the following:
 - Deleting all the monitors
 To delete all monitors run the following
 
+.. warning:: In Developement
+
 
 .. code-block:: none
 

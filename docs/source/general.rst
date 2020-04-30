@@ -24,15 +24,15 @@ Configure
 
 - Run first time server setup by running:
 
+.. note:: This command can only be run once.
+.. warning:: Coming Soon.
+
 
 .. code-block:: none
 
     sb!setup
 
 You will be promted about various settings to change.
-
-.. note:: This command can only be run once.
-.. warning:: Coming Soon.
 
 
 Commands

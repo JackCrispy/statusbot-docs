@@ -45,7 +45,7 @@ master_doc = 'index'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'default'
+html_theme = 'default' # alabaster for testing # default for upload
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -59,3 +59,14 @@ pygments_style = 'sphinx'
 html_static_path = ['_static']
 
 html_show_sphinx = False
+
+man_pages = [
+    ('index', 'StatusBot Wiki', u'StatusBot Wiki',
+     [u'StatusBot Wiki'], 1)
+]
+
+texinfo_documents = [
+  ('index', 'StatusBot Wiki', u'StatusBot Wiki',
+   u'StatusBot Wiki', 'StatusBot Wiki', 'A bot that monitors an IP.',
+   'Miscellaneous'),
+]
