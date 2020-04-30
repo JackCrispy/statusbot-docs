@@ -68,9 +68,9 @@ The following tables will provide information on each setting.
 +=========+=====================+===================================+===============================================+
 | name    | Yes                 | Any string                        | The name of the monitor                       |
 +---------+---------------------+-----------------------------------+-----------------------------------------------+
-| ip      | Yes                 | Any valid domain or ip adress     | The domain or ip of the monitor               |
+| ip      | Yes                 | Any valid domain or ip address     | The domain or ip of the monitor               |
 +---------+---------------------+-----------------------------------+-----------------------------------------------+
-| domain  | Yes                 | Any valid domain or ip adress     | The domain or ip of the monitor               |
+| domain  | Yes                 | Any valid domain or ip address     | The domain or ip of the monitor               |
 +---------+---------------------+-----------------------------------+-----------------------------------------------+
 | enabled | No                  | Any value inputed will be ignored | Toggle wether the monitor is enabled or not   |
 +---------+---------------------+-----------------------------------+-----------------------------------------------+
